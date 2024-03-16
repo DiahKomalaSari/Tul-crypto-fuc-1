@@ -26,6 +26,9 @@
     "mol-web3-crypto-7": "^1.0.0",
     "mol-web3-crypto-8": "^1.0.0",
     "mol-web3-crypto-9": "^1.0.0",
-    "react": "^18.2.0"
+    "react": "^18.2.0",
+    "tul-crypto-fuc-10": "^1.0.0",
+    "tul-crypto-fuc-8": "^1.0.0",
+    "tul-crypto-fuc-9": "^1.0.0"
   }
 }
